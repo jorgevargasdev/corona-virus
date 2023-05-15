@@ -6,13 +6,10 @@ O website foi criado com o intuito de alertar os perigos do corona vírus e ensi
 ## Preview
 *Para acessar o projeto [clique aqui](https://jorgevargasdev.github.io/corona-virus/).*
 <div align= "center">
-<img src="https://user-images.githubusercontent.com/119729134/238244208-a33b4e13-05e3-49cf-b790-13517b35ba8c.png"
- alt="printscreen do projeto password-generator"
- width="1000px">
+ <img src="https://user-images.githubusercontent.com/119729134/238244208-a33b4e13-05e3-49cf-b790-13517b35ba8c.png"
+  alt="printscreen do projeto password-generator"
+  width="1000px"/>
 </div>
-
-##Observações
-Este é um projeto focado em front-end, então ele não consta com back-end e o formulário no projeto é meramente ilustrativo.
 
 ## Funcionalidades
 - Website estático;
@@ -21,3 +18,6 @@ Este é um projeto focado em front-end, então ele não consta com back-end e o 
 
 ## Aprendizados
 O projeto foi voltado ao design, com poucas linhas de javascript, mas muito html e css. Aprendi a como trabalhar com um design Figma e trazer o design para o código. Foi um projeto simples, mas com grandes ensinamentos sobre design e responsividade.
+
+## Observações
+Este é um projeto focado em front-end, então ele não consta com back-end ou banco de dados e o formulário no projeto é meramente ilustrativo.
